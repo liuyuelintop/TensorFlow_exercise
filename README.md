@@ -6,3 +6,5 @@
 ## TensorFlow_Mnist_MLP_h1000
 
 ## TensorFlow_Mnist_MLP_h1000-h1000
+
+## TensorFlow_Mnist_CNN
